@@ -1,2 +1,1 @@
-# Pearl-hub
-Pearl hub
+Pearl hub speed legends script
